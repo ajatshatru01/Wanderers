@@ -1,6 +1,7 @@
 # === BACKEND (Python / FastAPI) ===
 backend/.venv/
 backend/__pycache__/
+backned/routers/__pycache__/
 backend/*.pyc
 backend/.env
 backend/.pytest_cache/
